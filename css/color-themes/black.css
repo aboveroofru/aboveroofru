@@ -1,0 +1,21 @@
+#content-boxes h3,.page-title,#main-navigation li a:hover {
+	text-decoration:none
+} {
+	color: #aaa
+}
+
+footer a {
+	color:#aaa!important
+}
+
+.download-btn {
+	background-color:#111
+}
+
+#newsletter, #blockquote-rotator,#logo a,#twitter-feed {
+	background:#111
+}
+
+.thumbnail:hover {
+	border: 1px solid #111!important
+}
